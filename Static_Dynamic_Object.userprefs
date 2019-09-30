@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2322B1B6-B520-9E9F-1A93-F946B1E133CE}|">
+  <MonoDevelop.Ide.ItemProperties.Static__Dynamic__Object PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/create.cs">
+    <Files>
+      <File FileName="Assets/Script/MoveObject.cs" Line="10" Column="1" />
+      <File FileName="Assets/Script/LookAt.cs" Line="18" Column="2" />
+      <File FileName="Assets/Script/create.cs" Line="71" Column="1" />
+      <File FileName="Assets/Script/create2.cs" Line="21" Column="50" NotebookId="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/Player_Controll.cs" Line="27" Column="15" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
